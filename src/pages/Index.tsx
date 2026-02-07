@@ -258,7 +258,7 @@ const Index = () => {
                 {showPSMessage && (
                   <div className="glass-card p-6">
                     <TypewriterText
-                      text="PS: I love you more than this website… and that’s saying a LOT 💖🐻"
+                      text="PS: Apki shakal wale and meri ankhon wale baachien bohot cute honge and i will ALWAYS LOVE YOU THE MOST 😋 💖🐻"
                       speed={50}
                       onComplete={() => setShowVoiceButton(true)}
                     />
