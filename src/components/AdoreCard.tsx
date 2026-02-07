@@ -81,8 +81,8 @@ export const AdoreCard = ({
           ) : (
             /* BACK SIDE */
             <motion.div
-              initial={{ scale: 5 }}
-              animate={{ scale: 5 }}
+              initial={{ scale: 1.5 }}
+              animate={{ scale: 1.5 }}
               transition={{ type: "spring", damping: 12 }}
               className="flex flex-col items-center gap-2"
               style={{ transform: "rotateY(180deg)" }}
