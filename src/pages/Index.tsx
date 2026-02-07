@@ -150,7 +150,7 @@ const Index = () => {
                 <TeddyBearCouple />
 
                 <p className="text-3xl font-romantic">
-                  You became my favorite person Gugu ji💕
+                  You became my peace Gugu ji💕
                 </p>
 
                 <button
