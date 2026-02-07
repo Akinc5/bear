@@ -204,7 +204,7 @@ const Index = () => {
             >
               <div className="space-y-10 max-w-md">
                 <p className="text-2xl">
-                  I have been blessed u came into my life and it started to bloom soooooooo <strong>Gugu</strong> I have something really important to ask something really important to ask you…
+                  I have been blessed u came into my life <strong>Gugu</strong> and I have something really important to ask Dettol marta hai 99.9 % kitanu kya Aap banogi meri Jaanu💓…
                 </p>
 
                 <TeddyBear emotion="nervous" size="xl" withHeart />
